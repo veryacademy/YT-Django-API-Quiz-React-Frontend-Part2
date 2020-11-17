@@ -1,0 +1,9 @@
+Part 1
+=============
+pip install djangorestframework
+pip freeze > requirements.txt
+pip install django-cors-headers
+
+
+# StringRelatedField
+https://www.django-rest-framework.org/api-guide/relations/
